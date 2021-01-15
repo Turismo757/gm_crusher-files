@@ -1,0 +1,11 @@
+{
+	"title"	: "gm_crusher",
+	"type" : "map",
+	"tags" : [ "fun", "scenic" ],
+	"ignore" :
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
